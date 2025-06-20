@@ -2,7 +2,7 @@
 
 This project showcases my web development skills with a focus on UI/UX design and responsive layouts.
 
-[LIVE LINK]: https://loveychauhan.netlify.app/
+[LIVE LINK]: [https://loveychauhan.netlify.app/]
 
 ## Features
 
