@@ -5,7 +5,7 @@ This project showcases my web development skills with a focus on UI/UX design an
 
 ### 🔗 Live Demo
 
-👉 [https://pictoria-web.netlify.app]
+👉 [https://loveychauhan.netlify.app]
 
 ## Features
 
