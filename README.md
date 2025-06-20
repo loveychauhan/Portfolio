@@ -2,7 +2,10 @@
 
 This project showcases my web development skills with a focus on UI/UX design and responsive layouts.
 
-[LIVE LINK]: [https://loveychauhan.netlify.app/]
+
+### 🔗 Live Demo
+
+👉 [https://pictoria-web.netlify.app]
 
 ## Features
 
@@ -17,4 +20,3 @@ This project showcases my web development skills with a focus on UI/UX design an
 - Tailwind CSS for styling
 - Vite for a streamlined development process
 
-## Project Structure
