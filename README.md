@@ -17,4 +17,3 @@ This project showcases my web development skills with a focus on UI/UX design an
 - Tailwind CSS for styling
 - Vite for a streamlined development process
 
-## Project Structure
