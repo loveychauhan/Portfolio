@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio.
 
 This project showcases my web development skills with a focus on UI/UX design and responsive layouts.
 
