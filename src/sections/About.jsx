@@ -7,10 +7,10 @@ import { Frameworks } from "../components/Framework";
 const About = () => {
   const grid2Container = useRef();
   return (
-    <section className="c-space section-spacing">
+    <section className="c-space section-spacing" id="about">
       <h2 className="text-heading">About me</h2>
       <div className="grid grid-cols-1 md:grid-cols-6 gap-4 md:auto-rows-[18rem] mt-12">
-        <div className="flex items-end grid-default-color grid-1">
+        <div className="flex  grid-default-color grid-1">
           {" "}
           <img
             src="assets/coding-pov.png"
@@ -22,7 +22,7 @@ const About = () => {
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
         </div>
-        <div className="flex items-end grid-default-color grid-2">
+        <div className="flex  grid-default-color grid-2">
           {" "}
           <div
             ref={grid2Container}

@@ -10,11 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "@tailwindcss/vite": "^4.1.12",
     "cobe": "^0.6.4",
     "motion": "^12.23.12",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-toastify": "^11.0.5",
     "tailwind-merge": "^3.3.1",
     "tailwindcss": "^4.1.12"
   },
