@@ -8,8 +8,8 @@ Explore my journey in tech below 👇
 
 ## 🖼️ Screenshots
 
-![Home](assets/screenshots/home.png)
-![Portfolio](assets/screenshots/portfolio.png)
+![Home](screenshots/home.png)
+![Portfolio](screenshots/portfolio.png)
 
 
 ---
