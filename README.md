@@ -9,7 +9,8 @@ Explore my journey in tech below 👇
 ## 🖼️ Screenshots
 
 ![Home](assets/screenshots/home.png)
-![Project Segment](assets/screenshots/portfolio.png)
+![Portfolio](assets/screenshots/portfolio.png)
+
 
 ---
 
