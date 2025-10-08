@@ -71,7 +71,7 @@ export const myProjects = [
         description:
             "A clean, interactive web app using the REST Countries API to explore country data by name or region.",
         href: "https://github.com/loveychauhan/frontend-challenges/tree/main/rest%20countries",
-        live: "https://simpli-coding-quiz-app.netlify.app/",
+        live: "https://simplicoding-rest-countries.netlify.app/",
         image: "/assets/projects/CountryApi.png",
         tags: [
             {
@@ -99,7 +99,7 @@ export const myProjects = [
             "A simple, user-friendly quiz app where you can answer questions and see your result with an option to retry.",
 
         href: "https://github.com/loveychauhan/frontend-challenges/tree/main/quiz%20app",
-        live: "https://simplicoding-rest-countries.netlify.app/",
+        live: "https://simpli-coding-quiz-app.netlify.app/",
         image: "/assets/projects/QuizApp.png",
         tags: [
             {
