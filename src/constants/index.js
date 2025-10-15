@@ -12,6 +12,7 @@ export const myProjects = [
         ],
         href: "https://github.com/loveychauhan/E-Commerce",
         live: "https://e-commerce-jade-ten-20.vercel.app",
+        // live: "https://lovey.codewareit.in/neu",
         image: "/assets/projects/Neu.png",
         tags: [
             {

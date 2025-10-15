@@ -16,9 +16,22 @@ const About = () => {
             src="assets/coding-pov.png"
             className="absolute scale-[1.75] -right-[5rem] -top-[1rem] md:scale-[3] md:left-50 md:inset-y-10 lg:scale-[2.5]"
           />
-          <div className="z-10">
-            <p className="headtext">Hi, I'm Lovey Singh Chauhan</p>
-            <p className="subtext">I am a Mern Stack Developer</p>
+          <div className="z-10 h-full flex flex-col items-center justify-between">
+            <div>
+              <p className="headtext">Hi, I'm Lovey Singh Chauhan</p>
+              <p className="subtext">I am a Mern Stack Developer</p>
+            </div>
+
+            <section className="flex items-center px-2 gap-4   bg-gray-500 backdrop-blur-sm rounded-lg hadow-md w-full max-w-md mx-auto">
+              <img src="assets/logos/gDrive.png" alt="Gdrive logo" />
+              <a
+                href="https://drive.google.com/file/d/1miWmtraZ9XpGum6pEfH0jvBUXCeh7ECZ/view?usp=drive_link"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="py-3  text-center bg-mullRed text-white rounded-md hover:bg-red-600 transition-all duration-200">
+                Download Resume
+              </a>
+            </section>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
         </div>
@@ -76,7 +89,7 @@ const About = () => {
             </p>
           </div>
           <figure className="absolute left-[30%] top-[10%]">
-            {/* <Globe /> */}
+            <Globe />
           </figure>
         </div>
         <div className="grid-special-color grid-4">
