@@ -22,13 +22,13 @@ const About = () => {
               <p className="subtext">I am a Mern Stack Developer</p>
             </div>
 
-            <section className="flex items-center px-2 gap-4   bg-gray-500 backdrop-blur-sm rounded-lg hadow-md w-full max-w-md mx-auto">
+            <section className="flex items-center px-2 gap-4 hover:shadow-2xs  bg-gray-500 backdrop-blur-sm rounded-lg hadow-md w-full max-w-md mx-auto">
               <img src="assets/logos/gDrive.png" alt="Gdrive logo" />
               <a
                 href="https://drive.google.com/file/d/1miWmtraZ9XpGum6pEfH0jvBUXCeh7ECZ/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="py-3  text-center bg-mullRed text-white rounded-md hover:bg-red-600 transition-all duration-200">
+                className="py-3  text-center bg-mullRed text-white rounded-md transition-all duration-200">
                 Download Resume
               </a>
             </section>
